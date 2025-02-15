@@ -1,1 +1,9 @@
-
+photography-portfolio/
+  ├── index.html
+  ├── assets/
+  │   └── images/
+  ├── styles/
+  │   └── main.css
+  ├── about.html
+  ├── projects.html
+  ├── contact.html
