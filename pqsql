@@ -1,0 +1,7 @@
+portfolio-site/
+│
+├── index.html
+├── css/
+│   └── style.css
+├── images/
+└── README.md
